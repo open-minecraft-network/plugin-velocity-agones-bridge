@@ -1,0 +1,10 @@
+{
+  "id": "agones-bridge",
+  "name": "agones-bridge",
+  "version": "${version}",
+  "main": "de.reptudn.agonesBridge.AgonesBridge",
+  "description": "A plugin to update the status of the MC server for the Agones Sidecar",
+  "authors": [
+    "Reptudn"
+  ]
+}
